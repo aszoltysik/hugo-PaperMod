@@ -1,0 +1,36 @@
+baseURL = ''
+languageCode = 'pl-pl'
+title = 'My New Hugo Site'
+theme = 'PaperMod'
+
+[params]
+    ShowBreadCrumbs = true
+    
+    ShowReadingTime = true
+    
+    ShowShareButtons = true
+    
+    ShowPostNavLinks = true
+
+[params.homeInfoParams]
+    Title = "Jak zacząć podróżować na własną rękę?"
+    Content = "Na naszym blogu podróżniczym dowiesz się, jak zaczęliśmy podróżować całkowicie na własną rękę i jak to zrobić, aby było taniej i lepiej niż kiedykolwiek wcześniej…"
+
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'Lists archives'
+    pageRef = '/archives'
+    weight = 15
+[[menus.main]]
+    name = 'Cennik'
+    pageRef = '/cennik'
+    weight = 20
+[[menus.main]]
+    name = 'Kontakt'
+    pageRef = '/kontakt'
+    weight = 30

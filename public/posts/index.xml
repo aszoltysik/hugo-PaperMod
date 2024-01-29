@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Mon, 29 Jan 2024 12:55:01 +0100</lastBuildDate>
+    <atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Florencja</title>
+      <link>/posts/florencja/</link>
+      <pubDate>Mon, 29 Jan 2024 12:55:01 +0100</pubDate>
+      <guid>/posts/florencja/</guid>
+      <description>Florencja – miasto w środkowych Włoszech, nad Arno, u stóp Apeninów, stolica Toskanii Florencja (wł. Firenze, MAF: [fiˈrɛnʦe]) – miasto w środkowych Włoszech, nad Arno, u stóp Apeninów[1], stolica Toskanii i prowincji Florencja, stolica Włoch w latach 1865–1871. W 2006 roku liczyła 366 tys. mieszkańców.
+Historia Założone przez Etrusków jako Faesulae[2], zburzone przez Sullę w 82 p.n.e. Następnie odbudowane przez Juliusza Cezara w 59 p.n.e. jako kolonia dla byłych żołnierzy i nazwane Florentia.</description>
+    </item>
+    <item>
+      <title>Bolonia</title>
+      <link>/posts/bolonia/</link>
+      <pubDate>Sun, 28 Jan 2024 14:57:49 +0100</pubDate>
+      <guid>/posts/bolonia/</guid>
+      <description>Bolonia (wł. Bologna) – miasto w północnych Włoszech Bolonia (wł. Bologna) – miasto w północnych Włoszech, położone jest między Padem a Apeninami na wysokości 54 m n.p.m. Miasto leży nad dwiema rzekami – Reno i Saveną. Stolica regionu Emilia-Romania. Dane ogólne
+Ośrodek administracyjny prowincji Bolonia, na Nizinie Padańskiej, pomiędzy rzeką Pad a Apeninami. Ważny ośrodek handlowy, przemysłowy, kulturowy, naukowy (najstarszy na świecie uniwersytet założony w 1088) i turystyczny.
+Bolonia nazywana jest też La Grassa (tłusta) ze względu na swą tradycyjnie kaloryczną kuchnię.</description>
+    </item>
+    <item>
+      <title>Palermo</title>
+      <link>/posts/palermo/</link>
+      <pubDate>Sat, 27 Jan 2024 17:30:33 +0100</pubDate>
+      <guid>/posts/palermo/</guid>
+      <description>Palermo - miasto i gmina we Włoszech, w regionie Sycylia, w prowincji Palermo Palermo (wł. Palermo, sycyl. Palermu lub Paliemmu w dialekcie palermiańskim, gr. Πάνορμος) – miasto i gmina we Włoszech, w regionie Sycylia, w prowincji Palermo. Panormos powstało już w starożytności, jako kolonia fenicka. Według danych na rok 2009 gminę zamieszkiwało 657 936 osób, 4140,6 os./km².
+Palermo jest kulturalną, gospodarczą i turystyczną stolicą Sycylii. To główne sycylijskie centrum przemysłowe i handlowe.</description>
+    </item>
+    <item>
+      <title>Trapani</title>
+      <link>/posts/trapani/</link>
+      <pubDate>Sat, 27 Jan 2024 17:27:33 +0100</pubDate>
+      <guid>/posts/trapani/</guid>
+      <description>Trapani – miasto i gmina we Włoszech, w regionie Sycylia, w prowincji Trapani. Według danych na rok 2022 gminę zamieszkiwało 55 335 osób, 202,6 os./km².
+Miasto zostało założone przez Elymian. Bogate jest w znaczące zabytki architektoniczne, należą do nich m.in.:
+katedra św. Wawrzyńca (San Lorenzo) kościół del Purgatorio Santuario dell&amp;rsquo; Annunziata z XIV w (przebudowane w roku 1760) kościół Sant&amp;rsquo;Agostino z XIV w kościół Santa Maria di Gesù Fontana di Tritone W miejscowości znajduje się stacja kolejowa Trapani.</description>
+    </item>
+  </channel>
+</rss>
