@@ -3,6 +3,8 @@ title = 'Florencja'
 date = 2024-01-29T12:55:01+01:00
 draft = false
 author = 'Adam Szołtysik'
+tags = ['Włochy', 'Europa']
+categories = ['Europa']
 [cover]
     image = '/images/florencja.jpg'
     alt = 'Ponte Vecchio nad rzeką Arno we Florencji, Włochy, licencja: shutterstock/By muratart'

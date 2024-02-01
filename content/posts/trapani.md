@@ -3,6 +3,8 @@ title = 'Trapani'
 date = 2024-01-27T17:27:33+01:00
 draft = false
 author = 'Adam Szołtysik'
+tags = ['Włochy', 'Europa']
+categories = ['Europa']
 [cover]
     image = '/images/trapani.jpg'
     alt = 'Post images'

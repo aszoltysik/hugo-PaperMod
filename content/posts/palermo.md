@@ -3,6 +3,8 @@ title = 'Palermo'
 date = 2024-01-27T17:30:33+01:00
 draft = false
 author = 'Adam Szołtysik'
+tags = ['Włochy', 'Europa']
+categories = ['Europa']
 [cover]
     image = '/images/palermo-catedral.jpg'
     alt = 'Kateddra w Palermo - Palermo Cathedral'

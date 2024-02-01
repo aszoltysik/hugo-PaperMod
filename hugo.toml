@@ -31,6 +31,15 @@ theme = 'PaperMod'
     pageRef = '/cennik'
     weight = 20
 [[menus.main]]
+    name = 'Kategorie'
+    pageRef = '/tags/'
+    weight = 25
+[[menus.main]]
     name = 'Kontakt'
     pageRef = '/kontakt'
     weight = 30
+
+[taxonomies]
+  category = 'categories'
+  series = 'series'
+  tag = 'tags'

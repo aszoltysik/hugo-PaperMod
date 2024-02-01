@@ -3,6 +3,8 @@ title = 'Bolonia'
 date = 2024-01-28T14:57:49+01:00
 draft = false
 author = 'Adam Szołtysik'
+tags = ['Włochy', 'Europa']
+categories = ['Europa']
 [cover]
     image = '/images/bolonia.jpg'
     alt = 'Bolonia - Atrakcje turystyczne czerwonego miasta'
