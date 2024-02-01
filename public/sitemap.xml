@@ -2,16 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/series/go-web-dev/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/tags/g%C3%B3ry/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/categories/g%C3%B3ry/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/tags/korbiel%C3%B3w/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/tags/narty/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/categories/narty/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/tags/polska/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/categories/polska/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/posts/korbielow/skitouring/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/categories/zima/</loc>
+    <lastmod>2024-01-31T11:41:48+01:00</lastmod>
+  </url><url>
+    <loc>/posts/korbielow/trasy_narciarskie/</loc>
+    <lastmod>2024-01-31T11:41:32+01:00</lastmod>
+  </url><url>
+    <loc>/categories/lato/</loc>
+    <lastmod>2024-01-31T11:41:09+01:00</lastmod>
+  </url><url>
+    <loc>/posts/korbielow/sciezki_rowerowe/</loc>
+    <lastmod>2024-01-31T11:41:09+01:00</lastmod>
+  </url><url>
+    <loc>/posts/korbielow/szlaki_piesze/</loc>
+    <lastmod>2024-01-31T11:40:49+01:00</lastmod>
+  </url><url>
     <loc>/posts/korbielow/korbielow/</loc>
     <lastmod>2024-01-30T13:01:10+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2024-01-30T13:01:10+01:00</lastmod>
+    <loc>/tags/europa/</loc>
+    <lastmod>2024-01-29T12:55:01+01:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2024-01-30T13:01:10+01:00</lastmod>
+    <loc>/categories/europa/</loc>
+    <lastmod>2024-01-29T12:55:01+01:00</lastmod>
   </url><url>
     <loc>/posts/florencja/</loc>
+    <lastmod>2024-01-29T12:55:01+01:00</lastmod>
+  </url><url>
+    <loc>/tags/w%C5%82ochy/</loc>
     <lastmod>2024-01-29T12:55:01+01:00</lastmod>
   </url><url>
     <loc>/posts/bolonia/</loc>
@@ -31,11 +91,5 @@
   </url><url>
     <loc>/posts/trapani/</loc>
     <lastmod>2024-01-27T17:27:33+01:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/series/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
