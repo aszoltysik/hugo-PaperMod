@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lato on My New Hugo Site</title>
+    <link>/categories/lato/</link>
+    <description>Recent content in Lato on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Wed, 31 Jan 2024 11:41:09 +0100</lastBuildDate>
+    <atom:link href="/categories/lato/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sciezki_rowerowe</title>
+      <link>/posts/korbielow/sciezki_rowerowe/</link>
+      <pubDate>Wed, 31 Jan 2024 11:41:09 +0100</pubDate>
+      <guid>/posts/korbielow/sciezki_rowerowe/</guid>
+      <description>Ścieżki_rowerowe w budowe</description>
+    </item>
+    <item>
+      <title>Szlaki_piesze</title>
+      <link>/posts/korbielow/szlaki_piesze/</link>
+      <pubDate>Wed, 31 Jan 2024 11:40:49 +0100</pubDate>
+      <guid>/posts/korbielow/szlaki_piesze/</guid>
+      <description>Szlaki piesze w Korbielowie i okoliczach w budowie</description>
+    </item>
+    <item>
+      <title>Korbielów</title>
+      <link>/posts/korbielow/korbielow/</link>
+      <pubDate>Tue, 30 Jan 2024 13:01:10 +0100</pubDate>
+      <guid>/posts/korbielow/korbielow/</guid>
+      <description>Korbielów – wieś w Polsce położona w województwie śląskim, w powiecie żywieckim, w gminie Jeleśnia. W latach 1975–1998 w województwie bielskim. Położenie Miejscowość położona jest w Beskidzie Żywieckim, na stokach Pilska, 19 km na południowy wschód od Żywca nad rzeką Glinną (lewy dopływ Koszarawy)[3]. Sąsiaduje z krainą Orawa, która leży u podnóża Babiej Góry (1725 m n.p.m.).
+Opis miejscowości Korbielów jest miejscowością turystyczną położoną na południu Polski. Na jego terenie znajduje się kościół i parafia pw.</description>
+    </item>
+  </channel>
+</rss>
