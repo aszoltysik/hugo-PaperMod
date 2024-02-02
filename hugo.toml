@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'https://aszoltysik.github.io/hugo-PaperMod'
 languageCode = 'pl-pl'
 title = 'My New Hugo Site'
 theme = 'PaperMod'

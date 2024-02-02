@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on My New Hugo Site</title>
-    <link>/series/</link>
+    <link>https://aszoltysik.github.io/hugo-PaperMod/series/</link>
     <description>Recent content in Series on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Wed, 31 Jan 2024 11:41:48 +0100</lastBuildDate>
-    <atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aszoltysik.github.io/hugo-PaperMod/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Go Web Dev</title>
-      <link>/series/go-web-dev/</link>
+      <link>https://aszoltysik.github.io/hugo-PaperMod/series/go-web-dev/</link>
       <pubDate>Wed, 31 Jan 2024 11:41:48 +0100</pubDate>
-      <guid>/series/go-web-dev/</guid>
+      <guid>https://aszoltysik.github.io/hugo-PaperMod/series/go-web-dev/</guid>
       <description></description>
     </item>
   </channel>
